@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">SejongCE_RSS</string>
-
+    <string name="hello">Hello!</string>
+    <string name="app_name">세종대학교 컴공 RSS</string>
+	<string name="title_section_i">컴공 학과공지</string>
+	<string name="title_section_ii">컴공 서버공지</string>
+	<string name="title_section_iii">컴공 자유게시판</string>
+	<string name="title_section_iv">컴공 IT교육정보</string>
+	<string name="title_pref">알림설정</string>
 </resources>
